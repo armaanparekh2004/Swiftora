@@ -1,0 +1,321 @@
+source,url,price,currency,title,image,condition,shipping
+seed,#,1154.04,USD,Nike Air Force 1 White,,good,3.93
+seed,#,674.97,USD,Apple MacBook Air White,,new,11.53
+seed,#,79.35,USD,Samsung Galaxy S22 64GB Black,,like new,14.34
+seed,#,530.89,USD,Apple MacBook Air Red,,new,4.43
+seed,#,765.16,USD,Nike Air Force 1 White,,fair,
+seed,#,177.6,USD,Nike Air Jordan 1 Silver,,like new,11.48
+seed,#,854.08,USD,Dell XPS 13 Black,,poor,
+seed,#,222.21,USD,Bose QuietComfort 35 Green,,like new,19.23
+seed,#,734.48,USD,Apple iPhone 14 128GB Silver,,fair,4.98
+seed,#,778.68,USD,Apple iPhone 11 512GB Black,,good,7.24
+seed,#,787.31,USD,Google Pixel 6 64GB Blue,,new,21.45
+seed,#,922.08,USD,Sony WH‑1000XM3 Blue,,fair,23.63
+seed,#,795.87,USD,Bose QuietComfort 35 Silver,,poor,6.61
+seed,#,1088.88,USD,Apple MacBook Pro White,,new,
+seed,#,181.99,USD,Canon EOS 80D Green,,poor,
+seed,#,588.06,USD,Samsung Galaxy S21 512GB Red,,good,7.59
+seed,#,752.43,USD,Samsung Galaxy S21 512GB White,,poor,3.92
+seed,#,506.5,USD,Apple iPhone 14 512GB Green,,fair,10.59
+seed,#,325.41,USD,Samsung Galaxy S20 64GB Silver,,good,8.55
+seed,#,1179.55,USD,Bose QuietComfort 35 White,,like new,28.16
+seed,#,634.98,USD,Samsung Galaxy S20 512GB White,,poor,
+seed,#,620.15,USD,Samsung Galaxy S21 256GB Blue,,fair,
+seed,#,970.78,USD,Canon EOS 80D White,,good,
+seed,#,429.15,USD,Apple iPhone 13 64GB Green,,new,
+seed,#,636.29,USD,Canon EOS 80D Silver,,like new,22.91
+seed,#,123.77,USD,Samsung Galaxy S20 64GB Black,,fair,10.1
+seed,#,75.98,USD,Nikon D750 Green,,fair,2.65
+seed,#,454.16,USD,Microsoft Surface Laptop Red,,like new,7.26
+seed,#,391.75,USD,Apple iPhone 12 256GB Red,,poor,22.59
+seed,#,970.86,USD,Canon EOS R6 Black,,good,22.22
+seed,#,808.67,USD,Samsung Galaxy S20 256GB White,,new,15.97
+seed,#,1027.92,USD,Lenovo ThinkPad T14 Silver,,new,
+seed,#,1145.12,USD,Nike Air Jordan 1 Black,,new,
+seed,#,498.2,USD,Apple MacBook Air White,,good,17.42
+seed,#,203.76,USD,Canon EOS 80D Red,,good,24.04
+seed,#,323.21,USD,Dell XPS 13 Red,,poor,7.13
+seed,#,1178.22,USD,Bose QuietComfort 35 Black,,fair,
+seed,#,949.29,USD,Apple iPhone 13 64GB Black,,poor,25.09
+seed,#,931.83,USD,Sony WH‑1000XM3 Black,,fair,26.27
+seed,#,546.01,USD,Canon EOS 80D Blue,,good,9.42
+seed,#,1050.67,USD,Samsung Galaxy S20 128GB Silver,,fair,16.9
+seed,#,819.35,USD,Dell XPS 13 Blue,,like new,0.14
+seed,#,730.05,USD,Lenovo ThinkPad X1 Red,,fair,
+seed,#,531.14,USD,Dell XPS 13 Green,,good,5.6
+seed,#,237.16,USD,Nike Air Jordan 1 White,,like new,23.4
+seed,#,239.55,USD,Dell XPS 13 Green,,poor,13.68
+seed,#,190.56,USD,Lenovo ThinkPad T14 White,,poor,20.82
+seed,#,1008.77,USD,Dell XPS 15 Black,,like new,7.72
+seed,#,1133.57,USD,Samsung Galaxy S20 256GB Green,,fair,29.99
+seed,#,523.3,USD,Nikon D750 Blue,,fair,
+seed,#,476.45,USD,Nikon D750 Blue,,poor,11.2
+seed,#,561.62,USD,Apple iPhone 13 128GB Red,,poor,7.91
+seed,#,249.42,USD,Apple MacBook Pro Silver,,new,15.03
+seed,#,327.48,USD,Nikon Z6 White,,like new,
+seed,#,962.71,USD,Nike Air Force 1 Black,,new,18.4
+seed,#,251.81,USD,Samsung Galaxy S21 256GB Blue,,poor,
+seed,#,418.0,USD,Nike Air Force 1 Red,,fair,
+seed,#,958.66,USD,Dell XPS 15 Green,,poor,1.55
+seed,#,649.32,USD,Dell XPS 13 Green,,fair,23.95
+seed,#,98.76,USD,Nikon Z6 Black,,fair,
+seed,#,755.3,USD,Dell XPS 15 Silver,,fair,12.56
+seed,#,121.16,USD,Microsoft Surface Laptop Green,,new,5.54
+seed,#,788.1,USD,Sony WH‑1000XM4 Red,,new,15.88
+seed,#,1010.8,USD,Sony WH‑1000XM3 Red,,good,
+seed,#,374.93,USD,Lenovo ThinkPad T14 Black,,good,20.4
+seed,#,566.43,USD,Adidas UltraBoost Silver,,like new,28.93
+seed,#,1155.53,USD,Dell XPS 13 Green,,poor,28.11
+seed,#,684.38,USD,Apple iPhone 12 64GB Blue,,poor,2.76
+seed,#,65.43,USD,Bose QuietComfort 35 Black,,like new,14.77
+seed,#,764.02,USD,Samsung Galaxy S21 512GB Red,,new,6.11
+seed,#,610.98,USD,Apple MacBook Pro Silver,,poor,22.43
+seed,#,643.69,USD,Microsoft Surface Laptop Silver,,good,19.34
+seed,#,518.92,USD,Google Pixel 5 512GB Green,,good,22.04
+seed,#,895.28,USD,Samsung Galaxy S21 128GB Black,,fair,11.9
+seed,#,1193.58,USD,Lenovo ThinkPad T14 Blue,,new,10.21
+seed,#,320.4,USD,Sony WH‑1000XM4 Green,,poor,
+seed,#,863.74,USD,Samsung Galaxy S21 256GB Silver,,like new,24.64
+seed,#,976.08,USD,Canon EOS 80D White,,like new,17.38
+seed,#,967.82,USD,Nike Air Jordan 1 Black,,new,27.77
+seed,#,224.3,USD,Google Pixel 6 256GB Black,,good,11.28
+seed,#,171.81,USD,Nikon Z6 Blue,,good,
+seed,#,655.66,USD,Lenovo ThinkPad T14 Red,,new,
+seed,#,965.3,USD,Adidas UltraBoost Blue,,new,
+seed,#,977.27,USD,Apple iPhone 12 64GB White,,new,9.89
+seed,#,75.2,USD,Sony WH‑1000XM4 Red,,good,4.38
+seed,#,610.83,USD,Dell XPS 15 Silver,,fair,4.04
+seed,#,1131.78,USD,Sony WH‑1000XM4 Blue,,poor,7.57
+seed,#,419.38,USD,Bose QuietComfort 35 Silver,,new,3.15
+seed,#,633.87,USD,Apple MacBook Pro Silver,,like new,7.58
+seed,#,1024.4,USD,Lenovo ThinkPad X1 White,,new,19.96
+seed,#,186.57,USD,Nikon D750 Green,,fair,24.29
+seed,#,617.07,USD,Dell XPS 13 Blue,,poor,15.9
+seed,#,508.71,USD,Bose QuietComfort 35 Black,,fair,
+seed,#,1183.05,USD,Sony WH‑1000XM3 Red,,good,28.58
+seed,#,669.18,USD,Sony WH‑1000XM4 Red,,poor,24.87
+seed,#,1192.11,USD,Nikon Z6 Silver,,like new,8.79
+seed,#,282.62,USD,Samsung Galaxy S20 512GB Red,,poor,
+seed,#,121.01,USD,Dell XPS 15 White,,new,26.96
+seed,#,593.05,USD,Apple iPhone 11 512GB Black,,good,5.66
+seed,#,612.21,USD,Google Pixel 6 256GB Silver,,like new,20.25
+seed,#,798.98,USD,Apple MacBook Pro Silver,,new,
+seed,#,1159.52,USD,Nikon D750 White,,poor,19.57
+seed,#,1120.48,USD,Bose QuietComfort 35 Black,,poor,25.93
+seed,#,872.29,USD,Samsung Galaxy S20 256GB White,,poor,
+seed,#,346.56,USD,Canon EOS R6 Blue,,like new,11.49
+seed,#,316.28,USD,Apple iPhone 14 128GB Green,,new,26.43
+seed,#,715.2,USD,Sony WH‑1000XM3 White,,good,0.56
+seed,#,1110.52,USD,Lenovo ThinkPad T14 White,,poor,25.18
+seed,#,553.42,USD,Canon EOS R6 White,,fair,9.64
+seed,#,546.54,USD,Canon EOS R6 Red,,good,18.95
+seed,#,96.75,USD,Apple iPhone 13 512GB Black,,fair,
+seed,#,748.32,USD,Apple MacBook Pro Red,,new,21.99
+seed,#,739.08,USD,Apple MacBook Air White,,new,8.34
+seed,#,88.13,USD,Nikon D750 Red,,good,
+seed,#,63.66,USD,Sony WH‑1000XM3 Black,,new,23.08
+seed,#,857.99,USD,Lenovo ThinkPad T14 Silver,,like new,19.44
+seed,#,1001.62,USD,Bose QuietComfort 35 Green,,fair,
+seed,#,92.58,USD,Dell XPS 15 Silver,,poor,
+seed,#,478.11,USD,Google Pixel 6 128GB Silver,,good,
+seed,#,981.63,USD,Lenovo ThinkPad T14 Green,,poor,
+seed,#,365.27,USD,Canon EOS 80D Silver,,fair,13.83
+seed,#,826.4,USD,Apple iPhone 11 128GB Silver,,fair,28.61
+seed,#,259.69,USD,Apple iPhone 14 128GB Black,,fair,21.27
+seed,#,520.34,USD,Samsung Galaxy S20 512GB Silver,,poor,
+seed,#,274.24,USD,Adidas UltraBoost Black,,new,2.95
+seed,#,987.25,USD,Sony WH‑1000XM3 Silver,,fair,4.32
+seed,#,436.77,USD,Nike Air Force 1 Blue,,fair,24.97
+seed,#,344.04,USD,Apple iPhone 13 512GB Black,,new,25.72
+seed,#,93.95,USD,Apple iPhone 12 128GB Blue,,good,
+seed,#,1007.92,USD,Nike Air Jordan 1 Green,,new,4.52
+seed,#,318.69,USD,Dell XPS 13 White,,poor,
+seed,#,722.02,USD,Apple iPhone 14 512GB Silver,,new,20.28
+seed,#,270.19,USD,Canon EOS 80D Blue,,fair,13.05
+seed,#,657.32,USD,Adidas UltraBoost Blue,,like new,
+seed,#,611.72,USD,Lenovo ThinkPad T14 Red,,good,28.74
+seed,#,1152.51,USD,Canon EOS 80D Black,,good,21.37
+seed,#,631.77,USD,Samsung Galaxy S20 512GB Blue,,poor,16.25
+seed,#,934.18,USD,Sony WH‑1000XM3 Green,,new,7.56
+seed,#,112.09,USD,Nikon D750 Green,,good,
+seed,#,70.74,USD,Google Pixel 6 64GB Silver,,new,14.56
+seed,#,677.97,USD,Sony WH‑1000XM4 Green,,fair,1.8
+seed,#,904.67,USD,Nike Air Jordan 1 Green,,new,29.71
+seed,#,370.87,USD,Dell XPS 13 Blue,,like new,20.64
+seed,#,547.12,USD,Samsung Galaxy S22 64GB White,,poor,22.67
+seed,#,336.77,USD,Microsoft Surface Laptop Green,,good,
+seed,#,571.85,USD,Dell XPS 13 White,,fair,0.66
+seed,#,341.81,USD,Samsung Galaxy S20 64GB Silver,,like new,29.78
+seed,#,1085.79,USD,Canon EOS R6 Blue,,fair,20.93
+seed,#,571.34,USD,Nikon D750 Red,,fair,
+seed,#,1104.13,USD,Apple iPhone 14 128GB White,,good,15.66
+seed,#,768.64,USD,Nikon D750 Blue,,fair,12.86
+seed,#,636.18,USD,Apple MacBook Air Black,,poor,9.88
+seed,#,763.24,USD,Apple iPhone 11 128GB Red,,poor,25.7
+seed,#,534.63,USD,Google Pixel 6 512GB Silver,,fair,0.54
+seed,#,707.75,USD,Bose QuietComfort 35 Red,,new,7.66
+seed,#,236.17,USD,Sony WH‑1000XM3 Green,,poor,29.25
+seed,#,606.8,USD,Microsoft Surface Laptop Red,,fair,15.94
+seed,#,1037.39,USD,Nikon Z6 Green,,new,7.11
+seed,#,823.32,USD,Bose QuietComfort 35 White,,poor,26.33
+seed,#,1033.37,USD,Apple MacBook Pro White,,fair,
+seed,#,591.78,USD,Nikon Z6 Silver,,like new,21.45
+seed,#,383.15,USD,Dell XPS 13 Silver,,like new,10.2
+seed,#,882.51,USD,Nikon Z6 Silver,,new,14.14
+seed,#,593.65,USD,Apple MacBook Pro Green,,fair,18.46
+seed,#,960.57,USD,Microsoft Surface Laptop Blue,,fair,23.33
+seed,#,444.64,USD,Dell XPS 13 Silver,,new,13.03
+seed,#,487.15,USD,Nikon D750 Red,,good,
+seed,#,1195.57,USD,Google Pixel 5 256GB Black,,fair,
+seed,#,859.92,USD,Canon EOS 80D Green,,good,6.26
+seed,#,773.46,USD,Canon EOS R6 White,,like new,25.19
+seed,#,988.64,USD,Sony WH‑1000XM3 Silver,,poor,9.72
+seed,#,584.98,USD,Samsung Galaxy S21 64GB Silver,,fair,23.04
+seed,#,215.98,USD,Samsung Galaxy S22 128GB Black,,new,16.95
+seed,#,353.78,USD,Google Pixel 6 256GB Silver,,fair,14.96
+seed,#,821.17,USD,Samsung Galaxy S22 128GB Red,,good,29.05
+seed,#,347.41,USD,Apple iPhone 13 128GB Black,,good,1.12
+seed,#,118.87,USD,Nikon Z6 Green,,like new,
+seed,#,1052.11,USD,Apple iPhone 11 64GB Silver,,fair,27.92
+seed,#,428.13,USD,Nikon Z6 White,,like new,29.23
+seed,#,169.82,USD,Dell XPS 13 Red,,new,5.95
+seed,#,1074.92,USD,Samsung Galaxy S20 64GB Silver,,poor,27.96
+seed,#,833.9,USD,Samsung Galaxy S21 128GB Black,,fair,
+seed,#,1134.65,USD,Nike Air Jordan 1 Green,,poor,13.22
+seed,#,58.69,USD,Sony WH‑1000XM4 Red,,fair,
+seed,#,249.35,USD,Nikon D750 Red,,new,18.61
+seed,#,633.15,USD,Sony WH‑1000XM3 Green,,good,7.81
+seed,#,249.9,USD,Dell XPS 15 Red,,fair,0.77
+seed,#,257.14,USD,Sony WH‑1000XM3 Red,,good,16.1
+seed,#,391.03,USD,Canon EOS 80D Blue,,poor,27.81
+seed,#,795.94,USD,Sony WH‑1000XM4 Red,,good,29.29
+seed,#,207.65,USD,Google Pixel 6 256GB Silver,,good,
+seed,#,1163.13,USD,Nike Air Force 1 Green,,new,14.29
+seed,#,220.96,USD,Nike Air Force 1 Red,,new,0.76
+seed,#,770.73,USD,Lenovo ThinkPad X1 Blue,,good,0.24
+seed,#,317.78,USD,Lenovo ThinkPad T14 Silver,,new,27.63
+seed,#,184.74,USD,Adidas UltraBoost Green,,like new,29.98
+seed,#,731.45,USD,Canon EOS 80D Black,,new,
+seed,#,394.85,USD,Microsoft Surface Laptop Red,,poor,
+seed,#,877.62,USD,Nike Air Jordan 1 Blue,,good,
+seed,#,742.4,USD,Samsung Galaxy S20 128GB Blue,,fair,10.07
+seed,#,397.99,USD,Apple MacBook Air Blue,,new,19.18
+seed,#,813.99,USD,Samsung Galaxy S21 128GB Blue,,like new,23.16
+seed,#,390.77,USD,Nikon Z6 White,,poor,7.0
+seed,#,466.16,USD,Lenovo ThinkPad X1 Blue,,like new,23.42
+seed,#,146.7,USD,Apple iPhone 11 128GB Black,,like new,24.56
+seed,#,1180.03,USD,Apple MacBook Pro Red,,fair,12.82
+seed,#,349.37,USD,Apple MacBook Pro Red,,good,29.43
+seed,#,530.79,USD,Microsoft Surface Laptop Green,,like new,14.3
+seed,#,753.76,USD,Dell XPS 15 Black,,good,
+seed,#,888.36,USD,Canon EOS 80D Blue,,fair,17.22
+seed,#,459.73,USD,Canon EOS 80D Blue,,good,
+seed,#,500.98,USD,Lenovo ThinkPad X1 Silver,,poor,
+seed,#,259.59,USD,Google Pixel 6 128GB Silver,,new,
+seed,#,894.84,USD,Apple iPhone 11 64GB Silver,,fair,27.95
+seed,#,101.13,USD,Nikon Z6 Red,,like new,3.94
+seed,#,227.87,USD,Nike Air Jordan 1 Silver,,like new,0.19
+seed,#,216.58,USD,Samsung Galaxy S20 256GB Silver,,good,
+seed,#,765.38,USD,Google Pixel 6 256GB Red,,like new,12.62
+seed,#,589.66,USD,Apple iPhone 11 64GB Blue,,fair,24.35
+seed,#,1081.3,USD,Sony WH‑1000XM3 Red,,new,1.31
+seed,#,417.3,USD,Apple iPhone 14 64GB Green,,new,
+seed,#,567.85,USD,Sony WH‑1000XM4 Red,,fair,12.13
+seed,#,282.64,USD,Lenovo ThinkPad T14 Black,,like new,23.2
+seed,#,718.22,USD,Canon EOS R6 Silver,,fair,15.81
+seed,#,417.1,USD,Google Pixel 5 64GB Silver,,good,5.5
+seed,#,1191.84,USD,Lenovo ThinkPad X1 Silver,,good,
+seed,#,603.35,USD,Canon EOS R6 Blue,,new,23.36
+seed,#,230.65,USD,Nikon Z6 Blue,,like new,27.46
+seed,#,1154.4,USD,Apple MacBook Air Silver,,poor,0.78
+seed,#,946.81,USD,Canon EOS 80D Silver,,new,13.91
+seed,#,887.52,USD,Apple iPhone 12 512GB Green,,good,1.92
+seed,#,465.57,USD,Canon EOS R6 Red,,like new,
+seed,#,923.23,USD,Nike Air Jordan 1 White,,fair,11.2
+seed,#,345.1,USD,Canon EOS R6 Red,,new,3.88
+seed,#,649.57,USD,Samsung Galaxy S21 512GB Blue,,fair,
+seed,#,209.21,USD,Samsung Galaxy S20 512GB Blue,,good,
+seed,#,672.8,USD,Canon EOS R6 Black,,like new,21.4
+seed,#,1042.25,USD,Dell XPS 15 Blue,,poor,0.2
+seed,#,619.34,USD,Nikon D750 Green,,good,13.31
+seed,#,573.26,USD,Dell XPS 13 White,,like new,26.15
+seed,#,706.65,USD,Samsung Galaxy S20 256GB Silver,,fair,2.3
+seed,#,597.41,USD,Microsoft Surface Laptop Silver,,fair,3.98
+seed,#,101.79,USD,Sony WH‑1000XM3 Silver,,new,20.42
+seed,#,1151.73,USD,Google Pixel 5 128GB Black,,good,
+seed,#,486.16,USD,Google Pixel 6 512GB Red,,good,11.94
+seed,#,787.74,USD,Apple iPhone 11 128GB Green,,like new,14.93
+seed,#,941.35,USD,Canon EOS 80D Blue,,good,11.49
+seed,#,848.4,USD,Adidas UltraBoost Blue,,fair,26.2
+seed,#,1075.26,USD,Google Pixel 6 256GB Black,,poor,
+seed,#,372.82,USD,Sony WH‑1000XM3 Green,,poor,
+seed,#,788.38,USD,Apple MacBook Air Red,,good,12.1
+seed,#,121.3,USD,Dell XPS 13 Green,,poor,
+seed,#,963.44,USD,Microsoft Surface Laptop Red,,new,
+seed,#,235.72,USD,Apple iPhone 14 512GB White,,good,15.48
+seed,#,384.81,USD,Samsung Galaxy S22 64GB Silver,,fair,
+seed,#,65.57,USD,Apple iPhone 12 512GB Blue,,fair,13.01
+seed,#,160.7,USD,Sony WH‑1000XM4 Black,,good,8.11
+seed,#,950.84,USD,Apple iPhone 13 256GB White,,good,27.53
+seed,#,1056.99,USD,Samsung Galaxy S20 512GB Green,,new,18.6
+seed,#,864.51,USD,Google Pixel 6 256GB Black,,new,13.21
+seed,#,1180.67,USD,Apple iPhone 14 256GB Blue,,poor,26.04
+seed,#,893.95,USD,Samsung Galaxy S21 256GB Black,,good,
+seed,#,529.4,USD,Apple iPhone 12 128GB Black,,like new,23.9
+seed,#,792.74,USD,Canon EOS R6 Silver,,new,5.64
+seed,#,1015.74,USD,Apple iPhone 12 256GB White,,good,12.26
+seed,#,615.84,USD,Adidas UltraBoost Blue,,good,
+seed,#,228.99,USD,Samsung Galaxy S22 128GB Blue,,good,
+seed,#,924.77,USD,Samsung Galaxy S20 128GB Red,,like new,
+seed,#,670.86,USD,Bose QuietComfort 35 Green,,new,1.86
+seed,#,626.0,USD,Adidas UltraBoost Black,,like new,1.28
+seed,#,374.76,USD,Apple iPhone 12 128GB Silver,,like new,
+seed,#,106.28,USD,Canon EOS R6 Silver,,like new,18.68
+seed,#,494.94,USD,Samsung Galaxy S21 64GB Silver,,new,29.87
+seed,#,969.85,USD,Nikon D750 Blue,,like new,16.1
+seed,#,431.77,USD,Canon EOS R6 Green,,good,1.79
+seed,#,708.63,USD,Nikon Z6 Blue,,new,10.45
+seed,#,827.05,USD,Sony WH‑1000XM3 Silver,,new,7.67
+seed,#,128.16,USD,Samsung Galaxy S22 512GB Red,,fair,23.98
+seed,#,503.76,USD,Canon EOS 80D White,,new,6.53
+seed,#,63.0,USD,Bose QuietComfort 35 Blue,,new,20.5
+seed,#,328.02,USD,Canon EOS R6 Red,,poor,2.52
+seed,#,909.89,USD,Google Pixel 6 128GB Silver,,good,20.58
+seed,#,331.77,USD,Nike Air Jordan 1 Silver,,poor,
+seed,#,946.01,USD,Adidas UltraBoost Red,,poor,26.79
+seed,#,340.83,USD,Apple iPhone 12 128GB Green,,new,0.12
+seed,#,292.72,USD,Microsoft Surface Laptop Blue,,fair,
+seed,#,101.71,USD,Canon EOS R6 Black,,poor,
+seed,#,1181.88,USD,Samsung Galaxy S20 128GB Red,,like new,8.96
+seed,#,422.92,USD,Samsung Galaxy S22 256GB White,,new,1.23
+seed,#,352.68,USD,Sony WH‑1000XM4 Blue,,poor,
+seed,#,216.37,USD,Sony WH‑1000XM3 Red,,fair,19.34
+seed,#,669.64,USD,Google Pixel 6 512GB Red,,good,4.36
+seed,#,160.81,USD,Nikon D750 White,,new,29.75
+seed,#,423.38,USD,Sony WH‑1000XM4 White,,new,20.47
+seed,#,586.92,USD,Samsung Galaxy S22 64GB Blue,,poor,1.97
+seed,#,1082.59,USD,Nike Air Jordan 1 Blue,,new,13.5
+seed,#,159.38,USD,Microsoft Surface Laptop Red,,like new,17.15
+seed,#,375.82,USD,Canon EOS R6 Silver,,fair,27.72
+seed,#,597.9,USD,Sony WH‑1000XM3 Blue,,good,9.14
+seed,#,1087.83,USD,Nike Air Jordan 1 Blue,,new,10.74
+seed,#,549.95,USD,Lenovo ThinkPad X1 Green,,like new,
+seed,#,891.04,USD,Microsoft Surface Laptop Green,,new,0.05
+seed,#,531.66,USD,Apple iPhone 12 64GB Green,,like new,28.22
+seed,#,188.85,USD,Samsung Galaxy S22 512GB Black,,poor,20.43
+seed,#,1056.45,USD,Samsung Galaxy S22 128GB Silver,,like new,12.64
+seed,#,771.59,USD,Bose QuietComfort 35 Silver,,fair,26.91
+seed,#,61.18,USD,Sony WH‑1000XM3 Blue,,poor,20.29
+seed,#,180.11,USD,Samsung Galaxy S22 512GB Black,,new,22.52
+seed,#,529.98,USD,Apple iPhone 12 128GB Blue,,poor,
+seed,#,1077.2,USD,Lenovo ThinkPad X1 Blue,,new,
+seed,#,544.65,USD,Canon EOS R6 Blue,,new,
+seed,#,245.52,USD,Apple iPhone 14 512GB Green,,poor,28.82
+seed,#,317.94,USD,Apple MacBook Air White,,poor,3.94
+seed,#,136.63,USD,Dell XPS 15 Red,,like new,25.26
+seed,#,284.41,USD,Apple iPhone 14 512GB Black,,new,23.62
+seed,#,1038.24,USD,Nikon D750 Red,,good,2.42
+seed,#,87.28,USD,Nikon D750 Silver,,new,16.92
+seed,#,177.67,USD,Adidas UltraBoost Green,,fair,29.61
+seed,#,939.32,USD,Apple MacBook Air Blue,,poor,
+seed,#,331.27,USD,Canon EOS R6 White,,good,
